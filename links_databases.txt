@@ -1,0 +1,6 @@
+https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients   
+
+https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
